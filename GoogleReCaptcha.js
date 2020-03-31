@@ -57,6 +57,9 @@ const GoogleReCaptcha = ({ onMessage, siteKey, style, url, languageCode, cancelB
 					.btn:focus {
 						outline: none;
 					}
+					#captcha {
+					   padding-top: 65%;
+					}
 				</style>
 			</head>
 			<body> 
